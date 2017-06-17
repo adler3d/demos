@@ -33,3 +33,9 @@
 Фичи:
   Игра непрерыва(Тоесть если вы её закроете, а потом запустите, то она продолжится с того же места)
 </pre>
+
+## КОНКУРС СТРАТЕГИЙ
+
+This game was written for the contest on gamedev.ru
+
+http://www.gamedev.ru/flame/forum/?id=142446&page=4#m49
