@@ -38,6 +38,6 @@ Features:
 
 This game was written for the contest on gamedev.ru
 
-http://www.gamedev.ru/flame/forum/?id=142446&page=4#m49
+http://www.gamedev.ru/flame/forum/?id=142446&page=4&github&msg49#m49
 
 http://adler3d.narod.ru/games/DoNotEat.rar
