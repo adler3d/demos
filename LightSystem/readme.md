@@ -6,7 +6,7 @@
 <tr><td>key</td><td>action</td></tr>
 </thead>
 <tbody>
-<tr><td>1-4</td><td>Load file</td></tr>
+<tr><td>1-7</td><td>Load file</td></tr>
 <tr><td>H</td><td>Help</td></tr>
 <tr><td>LB</td><td>AddBar</td></tr>
 <tr><td>MB</td><td>SetBar</td></tr>
