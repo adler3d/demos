@@ -1,0 +1,2 @@
+cd Bin
+DoNotEat.exe
