@@ -3,35 +3,35 @@
 ## DoNotEat
 
 <pre>
-РАЗРАБОТЧИКИ ПРОЕКТА: Adler3D - Программирование/Редактор/Дизайн/Баланс
+DEVELOPERS OF THE PROJECT: Adler3D - Programming / Editor / Design / Balance
 
-ВРЕМЯ РАЗРАБОТКИ ПРОЕКТА: ~300 часов.
+PROJECT DEVELOPMENT TIME: ~ 300 hours.
 
-ИСПОЛЬЗОВАН ЛИ СТОРОННИЙ:
-  - графический движок: нет
-  - игровой движок: нет
-  - графический контент: да
-  - музыкальный контент: нет
+IS IT USED:
+  - graphics engine: no
+  - game engine: no
+  - graphic content: yes
+  - music content: no
 
-СИСТЕМНЫЕ ТРЕБОВАНИЯ:
+SYSTEM REQUIREMENTS:
   - CPU: 1.8GHz
-  - RAM: 512mb
+  - RAM: 512MB
   - VRAM: 128mb
-  - Версия шейдеров: 1.0
-  - Аппаратная поддержка GAPI: DirectX 9.0
+  - Shader version: 1.0
+  - Hardware support for GAPI: DirectX 9.0
 
-НАЗНАЧЕНИЕ КЛАВИШ УПРАВЛЕНИЯ (клавиша/действие):
-  - ЛКМ(Запустить волну;Остановить волну;Выбрать башню)
-  - ПКМ(Двигать камеру)
-        - U(улучшение выделеной башни)
+PURPOSE OF THE CONTROL KEY (key / action):
+  - LMB (Start a wave; Stop the wave; Select a tower)
+  - RMB (Move Camera)
+  - U (improvement of the selected tower)
 
-ПРИМЕЧАНИЕ АВТОРА ПРОЕКТА: Сильно не пинать.
+NOTE PROJECT AUTHOR: Strongly do not kick.
 
-Как запустить волну?
-  Жмите зелёную кнопку(это так, на которой написан вот такой текст - [*****])
-  Жмите чёрную кнопку(это так, на которой написан вот такой текст - [*****])
-Фичи:
-  Игра непрерыва(Тоесть если вы её закроете, а потом запустите, то она продолжится с того же места)
+How to launch a wave?
+  Press the green button (this is so, on which is written this text - [*****])
+  Click on the black button (this is so, on which is written this text - [*****])
+Features:
+  Game continuity (Ie if you close it, and then run, it will continue from the same place)
 </pre>
 
 ## КОНКУРС СТРАТЕГИЙ
