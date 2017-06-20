@@ -10,3 +10,6 @@ archive: http://igdc.ru/konkurses/rocket_arena.zip
 
 ## Graph.PNG
 <img src="Graph.PNG">
+
+## Video
+https://youtu.be/g_hpEOwxEDM
