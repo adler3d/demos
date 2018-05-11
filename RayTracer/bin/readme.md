@@ -1,1 +1,1 @@
-build for unix
+app.out - build for unix(elf)
