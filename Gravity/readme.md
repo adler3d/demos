@@ -2,7 +2,7 @@
 Gravity 0.7
 --------------------------------------------------------------------------------
 <pre><table>
-controls:
+<b>controls:</b>
 <tr><th>key</th><th>action</th></tr>
 <tr><td>left or right</td><td>the angular acceleration of the wheel</td></tr>
 <tr><td>space</td><td>stop the wheel</td></tr>
