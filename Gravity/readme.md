@@ -2,10 +2,10 @@
 ## controls
 <table>
 <tr><th>key</th><th>action</th></tr>
-<tr><td>left or right</td><td>the angular acceleration of the wheel</td></tr>
-<tr><td>space</td><td>stop the wheel</td></tr>
-<tr><td>D</td><td>logoff</td></tr>
-<tr><td>esc</td><td>menu</td></tr>
+<tr><td><kbd>&larr;</kbd> or <kbd>&rarr;</kbd></td><td>the angular acceleration of the wheel</td></tr>
+<tr><td><kbd>SPACE</kbd></td><td>stop the wheel</td></tr>
+<tr><td><kbd>d</kbd></td><td>logoff</td></tr>
+<tr><td><kbd>ESC</kbd></td><td>menu</td></tr>
 </table>
 
 ## links
